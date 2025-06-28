@@ -3,5 +3,5 @@ def GoodDay(name, ending = "Thank You"):
     print(ending)
 
 GoodDay("Harry", "Thanks")
-GoodDay("Rohan")
+GoodDay("Rahul")
 
