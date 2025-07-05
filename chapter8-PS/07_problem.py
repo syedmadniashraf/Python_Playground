@@ -10,7 +10,7 @@ def rem(l,word):
     return n
 
 
-l = ["Harry", "Rohan", "Shivam", "an"]
+l = ["Harry", "Rohan", "Rahul", "an"]
 
 print(rem(l,"an"))
 
