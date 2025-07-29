@@ -18,7 +18,7 @@ class Complex:
     def __str__(self):
         return f"{self.r} + {self.i}i"
     
-c1 = complex(1,2)
-c2 = complex(3,4)
+c1 = Complex(1,2)
+c2 = Complex(3,4)
 print(c1 + c2)
 print(c1 * c2)
