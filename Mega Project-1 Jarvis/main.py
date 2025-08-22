@@ -9,7 +9,7 @@ import platform
 
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
-newsapi = "daa4892f639b4c36996449404766324e"
+newsapi = ""
 
 def speak(text):
     print(f"Speaking: {text}")
