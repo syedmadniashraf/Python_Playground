@@ -6,5 +6,4 @@ music = {
     "maria": "https://www.youtube.com/watch?v=jH4_GTRUC14",
     "ek": "https://www.youtube.com/watch?v=mfX7ynqrq2k",
     "jhol": "https://www.youtube.com/shorts/zcpPnom4Au8",
-    "wet lips": "https://www.youtube.com/watch?v=MgSMJGmIy2E"
 }

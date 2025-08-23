@@ -9,7 +9,7 @@ import platform
 
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
-newsapi = ""
+newsapi = "daa4892f639b4c36996449404766324e"
 
 def speak(text):
     print(f"Speaking: {text}")
@@ -55,7 +55,7 @@ if __name__ == "__main__":
                 audio = r.listen(source, timeout=2, phrase_time_limit=1)
             word = r.recognize_google(audio)
             if word.lower() == "jarvis":
-                speak("Ya")
+                speak("Yes")
                 with sr.Microphone() as source:
                     print("Jarvis Active...")
                     audio = r.listen(source)
