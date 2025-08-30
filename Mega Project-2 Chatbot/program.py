@@ -3,7 +3,7 @@ import pyperclip
 import time
 
 # Step 1: Click on the chrome icon at (1639, 1412)
-pyautogui.click(225, 73)
+pyautogui.click(226, 73)
 time.sleep(1)  # Wait for any UI response
 
 # Step 2: Drag from (1003, 237) to (2187, 1258) to select text
