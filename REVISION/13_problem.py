@@ -4,4 +4,4 @@ Dear <|Name|>,
 You are selected! 
 <|Date|> 
 ''' 
-print(letter.replace("<|Name|>","Madni").replace("<|Date|>","14Aug"))
+print(letter.replace("<|Name|>","Syed Madni").replace("<|Date|>","14Aug"))
