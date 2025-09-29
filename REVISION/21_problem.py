@@ -4,7 +4,8 @@ dict1 = {
     "key": "Value",
     "chair": "kursi",
     "lock": "Tala",
-    "book": "kitab"
+    "book": "kitab",
+    "page": "panna"
 }
 dict2 = input("Enter the word you want meaning of: ")
 print(dict1[dict2])
