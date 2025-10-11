@@ -1,3 +1,3 @@
 # 19. Write a program to sum a list with 4 numbers. 
-list = [1, 5, 7, 7, 85]
+list = [1, 5, 7, 7, 95]
 print(sum(list))
