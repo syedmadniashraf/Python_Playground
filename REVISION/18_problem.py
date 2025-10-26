@@ -1,4 +1,4 @@
 # 18. Check that a tuple type cannot be changed in python. 
-a = ("Madni", "uttarakhand", "Black", 14)
+a = ("Madni", "uttarakhand", "Blue", 14)
 a[0] = "Syed"
 print(a)
